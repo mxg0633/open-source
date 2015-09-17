@@ -3,10 +3,10 @@ COMP 312
 Homework 2 Data Challenge
 
 My goals are to find:
-1. If there are different est. times of removal depending if the area is residential or commercial.##
+1. If there are different est. times of removal depending if the area is residential or commercial.
 2. The average "life time" of a graffiti painting (street art).
 3. If there is a relationship between neighborhoods and requests for graffiti removal.
-4. Property value vs. graffiti removal requests.####
+4. Property value vs. graffiti removal requests.
 
 Python Output:
 
